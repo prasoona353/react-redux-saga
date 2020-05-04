@@ -6,7 +6,9 @@
     padding: 25px;
     grid-gap: 25px;
     grid-auto-flow: dense;
+    grid-auto-flow: dense;
     align-items: stretch;
+    background-color: #424242;
 }
 
 img {

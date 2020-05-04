@@ -32,6 +32,7 @@ class ImageGrid extends Component {
                         className={`item-${Math.ceil(
                             image.height / image.width,
                         )}`}
+                        // className="item-5"
                     />
                 ))}
             </section>
