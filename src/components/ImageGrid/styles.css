@@ -10,7 +10,17 @@
     align-items: stretch;
     background-color: #424242;
 }
-
+.button {
+    margin: 1rem;
+    height: 3rem;
+    width: 10rem;
+    color: white;
+    background-color: #424242;
+    border-radius: 1rem;
+}
+m-2{
+    margin: 1rem;
+}
 img {
     width: 100%;
     object-fit: cover;
